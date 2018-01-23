@@ -1,0 +1,48 @@
+body{
+	background:grey;
+	font-family:Arial, helvitica;
+
+}
+.nav a{
+	color:white;
+	text-decoration:none;
+	font-size:30px;
+}
+.nav li{
+	display: inline;
+	list-style: none;
+	float:left;
+	padding:0 15px 0 15px;
+}
+.more a{
+	text-align:right;
+	color:black;
+	float:right;
+	text-decoration:none;
+	font-size:10px;
+
+}
+.title{
+	font-style:italic;
+
+}
+.branding{
+	margin:0%;
+
+}
+.bodies{
+	margin-top:30px;
+	display:block;
+}
+.body{
+	float:left;
+	padding:10px;
+	text-align: center;
+	width:30%;
+
+
+}
+
+span{
+	color:yellow;
+}

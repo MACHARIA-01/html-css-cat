@@ -1,0 +1,47 @@
+body{
+	padding-top: 0px;
+	font-family: arial,helvetica;
+	border-image: center;
+}
+.container{
+font-style:italic;
+float:left;
+font-color:black;
+width:300px;
+height:300px;
+
+
+}
+.top{
+float:left;
+width: 300px;
+height: 300px;
+
+}
+.header{
+float:right;
+width: 300px;
+height: 300px;
+
+}
+.more a{
+	text-align: 
+	
+
+}
+.ul{
+	color: yellow;
+}
+.os{
+	color: blue;
+}
+.ox{
+	color:green;
+}
+
+
+
+
+
+
+
